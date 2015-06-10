@@ -157,11 +157,11 @@
      <Compile Include="Assets\Photon Unity Networking\UtilityScripts\TimeKeeper.cs" />
      <Compile Include="Assets\Prefabs\InventoryPackage\InventoryControllerScript.cs" />
      <Compile Include="Assets\Scripts\Networking\NetworkBase.cs" />
-     <Compile Include="Assets\Scripts\UI\InvPanelVisibility.cs" />
-     <Compile Include="Assets\Scripts\UI\InvUI.cs" />
-     <Compile Include="Assets\Scripts\UI\QuitButton.cs" />
-     <Compile Include="Assets\Scripts\UI\TickDown.cs" />
-     <Compile Include="Assets\Scripts\UI\TickUp.cs" />
+     <Compile Include="Assets\Scripts\UI\Inventory\InvPanelVisibility.cs" />
+     <Compile Include="Assets\Scripts\UI\Inventory\InvUI.cs" />
+     <Compile Include="Assets\Scripts\UI\Inventory\QuitButton.cs" />
+     <Compile Include="Assets\Scripts\UI\Inventory\TickDown.cs" />
+     <Compile Include="Assets\Scripts\UI\Inventory\TickUp.cs" />
      <Compile Include="Assets\_IMPORTED\NGUI\Examples\Scripts\InventorySystem\Game\EquipItems.cs" />
      <Compile Include="Assets\_IMPORTED\NGUI\Examples\Scripts\InventorySystem\Game\EquipRandomItem.cs" />
      <Compile Include="Assets\_IMPORTED\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" />
